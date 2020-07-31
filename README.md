@@ -27,9 +27,9 @@ The following files contain tracking easylist rules derived from DuckDuckGo Trac
 
 [prevalence1percent.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/prevalence1percent.txt): Rules from tracking-related domains included by one percent of the top 1000 sites
 
-[allTracking.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/allTracking.txt): All rules from domains that have a [tracking-related category](https://github.com/duckduckgo/tracker-radar/blob/master/docs/CATEGORIES.md) (the superset of the lists below, probably too much for blocking)
+[allTracking.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/allTracking.txt): All rules from domains that have a [tracking-related category](https://github.com/duckduckgo/tracker-radar/blob/master/docs/CATEGORIES.md) (the superset of the lists above, probably far too much for blocking)
 
-[allNotTracking.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/allNotTracking.txt): All rules from domains that don't have a [tracking-related category](https://github.com/duckduckgo/tracker-radar/blob/master/docs/CATEGORIES.md) (shows what's not included in the lists below, not useful for blocking)
+[allNotTracking.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/allNotTracking.txt): All rules from domains that don't have a [tracking-related category](https://github.com/duckduckgo/tracker-radar/blob/master/docs/CATEGORIES.md) (shows what's not included in the lists above, not useful at all for blocking)
 
 ## Licence and attribution
 This work, "ddg-tr-as-easylist", is a derivative of the "DuckDuckGo Tracker Radar" by Duck Duck Go, Inc, used under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). "ddg-tr-as-easylist" is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) by mainzelM.
