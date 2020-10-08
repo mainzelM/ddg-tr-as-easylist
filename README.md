@@ -1,35 +1,63 @@
 # ddg-tr-as-easylist
-Excepts from DuckDuckGo [Tracker Radar's data](https://github.com/duckduckgo/tracker-radar) as Easylist lists
+Excepts from DuckDuckGo [Tracker Radar's data](https://github.com/duckduckgo/tracker-radar) as Easylist lists.
 
 ## Provided files
 
-The following files contain tracking easylist rules derived from DuckDuckGo Tracker Radar data (based on their "top sites"). See the this [blog post](https://spreadprivacy.com/duckduckgo-tracker-radar/) and the Tracker Radar's [FAQ](https://github.com/duckduckgo/tracker-radar/blob/master/docs/FAQ.md) for some basic information about the data.
+This repository contains tracker blocking lists in the Easylist format derived from the DuckDuckGo Tracker Radar data. See the this [blog post](https://spreadprivacy.com/duckduckgo-tracker-radar/) and the Tracker Radar's [FAQ](https://github.com/duckduckgo/tracker-radar/blob/master/docs/FAQ.md) for some basic information about the base data.
  
- You can add one or more of these files in the [eBlocker](https://eblocker.org)'s Pattern Blocker list: Choose "easylist" as format and use the URL behind the link to directly reference it from this github site.
+To make use of the lists, add URLs for one or more of the files in the [eBlocker](https://eblocker.org)'s Pattern Blocker lists: Go to Settings -> Blocker -> Pattern Tracker Blocker -> Add. Then choose "easylist" as format and customize the following URL template: https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/REGION_CODE/LIST.txt, using as REGION_CODE one of 
+ 
+|**Region Code**|**Region**|
+|---|---|
+|US|United States|
+|AU|Australia|
+|CA|Canada|
+|CH|Switzerland|
+|DE|Germany|
+|FR|France|
+|GB|Great Britain|
+|NL|Netherlands|
 
-[medium.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/medium.txt): Rules from tracking-related domains of the top 1000 sites. Medium-level combination of fingerprinting, cookies, and prevalence.
+and as LIST one of
 
-[maximum.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/maximum.txt): Rules from tracking-related domains of the top 1000 sites. Maximum combination of fingerprinting, cookies, and prevalence.
+|**List**|**Description**|
+|---|---|
+|light|Rules from tracking-related domains. Lightweight-level combination of fingerprinting, cookies, and prevalence.|
+|medium|Rules from tracking-related domains. medium-level combination of fingerprinting, cookies, and prevalence.|
+|maximum|Rules from tracking-related domains. maximum-level combination of fingerprinting, cookies, and prevalence.|
+|malware|Rules from domains in the [malware category](https://github.com/duckduckgo/tracker-radar/blob/master/docs/CATEGORIES.md) (always recommended)|
 
-[cookies1percent.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/cookies1percent.txt): Rules from tracking-related domains that set cookies found in at least one percent of the top 1000 sites
+For example, the URL https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/US/maximum.txt references the maximum list of the US region.
 
-[cookies1permill.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/cookies1permill.txt): Rules from tracking-related domains that set cookies found in at least one per mill of the top 1000 sites
+## Recommendation
 
-[cookiesAny.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/cookiesAny.txt): Rules from tracking-related domains that set cookies
+The files get larger with each level, therefore the memory usage within eBlocker increases accordingly.
 
-[fingerprinting123.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/fingerprinting123.txt): Rules from tracking-related domains that have a fingerprinting likelihood of 1, 2, or 3 according to the DDG model
+For eBlockers running on the White Cube or a Raspberry Pi with 1GB memory, include the light or medium lists of your region and the US region in addition to the standard eBlocker lists.
 
-[fingerprinting23.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/fingerprinting23.txt): Rules from tracking-related domains that have a fingerprinting likelihood of 2 or 3 according to the DDG model
+For eBlockers with more than 1GB memory, use the medium or maximum list of your region and the US region in addition to the standard eBlocker lists.
 
-[fingerprinting3.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/fingerprinting3.txt): Rules from tracking-related domains that have a fingerprinting likelihood of 3 according to the DDG model
+Especially with the maximum lists, the likelihood of breaking some sites increases. As always, each user needs to individually choose the desired level of privacy and comfort.  
 
-[malware.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/malware.txt): Rules from domains in the [malware category](https://github.com/duckduckgo/tracker-radar/blob/master/docs/CATEGORIES.md)
+# Evaluation
 
-[prevalence1percent.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/prevalence1percent.txt): Rules from tracking-related domains included by one percent of the top 1000 sites
+Based on a comparison to the standard tracking-blocker lists shipped with the eBlocker visiting the top 5000 sites from the [Tranco list](https://tranco-list.eu), and another 1000 sites from Germany and Switzerland each, the maximum lists from US, DE, and CH taken together increase the number of blocked URLs by about one third. On the other side, the maximum lists still miss about one third of the URLs blocked by the eBlocker.
 
-[allTracking.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/allTracking.txt): All rules from domains that have a [tracking-related category](https://github.com/duckduckgo/tracker-radar/blob/master/docs/CATEGORIES.md) (the superset of the lists above, probably far too much for blocking)
+## Additional lists
 
-[allNotTracking.txt](https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/topsites/allNotTracking.txt): All rules from domains that don't have a [tracking-related category](https://github.com/duckduckgo/tracker-radar/blob/master/docs/CATEGORIES.md) (shows what's not included in the lists above, not useful at all for blocking)
+For reference, additional lists are available:
+
+|**List**|**Description**|
+|---|---|
+|cookies1percent|Rules from tracking-related domains that set cookies found in at least one percent sites of the region.|
+|cookies1permill|Rules from tracking-related domains that set cookies found in at least one per mill sites of the region.|
+|cookiesAny|Rules from tracking-related domains that set cookies in the region.|
+|fingerprinting123|Rules from tracking-related domains that have a fingerprinting likelihood of 1, 2, or 3 according to the DDG model|
+|fingerprinting23|Rules from tracking-related domains that have a fingerprinting likelihood of 2, or 3 according to the DDG model|
+|fingerprinting3|Rules from tracking-related domains that have a fingerprinting likelihood of  3 according to the DDG model|
+|prevalence1percent|Rules from tracking-related domains included by one percent of the sites of the region|
+|allTracking|All rules from domains that have a [tracking-related category](https://github.com/duckduckgo/tracker-radar/blob/master/docs/CATEGORIES.md) or no category (the superset of the lists above, probably too much for blocking)|
+|notTracking|All rules from domains that don't have a [tracking-related category](https://github.com/duckduckgo/tracker-radar/blob/master/docs/CATEGORIES.md) (shows what's not included in the lists above, not useful at all for blocking)|
 
 ## Licence and attribution
 This work, "ddg-tr-as-easylist", is a derivative of the "DuckDuckGo Tracker Radar" by Duck Duck Go, Inc, used under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). "ddg-tr-as-easylist" is licensed under [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/) by mainzelM.
