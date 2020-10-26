@@ -29,6 +29,8 @@ and as LIST one of
 
 For example, the URL https://github.com/mainzelM/ddg-tr-as-easylist/raw/master/easylist/US/maximum.txt references the maximum list of the US region.
 
+Be sure to activate the "daily updates" switch to get automatically updated as new data is published (usually once a month).
+
 ## Recommendation
 
 The files get larger with each level, therefore the memory usage within eBlocker increases accordingly.
