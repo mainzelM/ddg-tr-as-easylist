@@ -1,11 +1,11 @@
 linkedin.com/px/li_sync
 trueleadid.com/cog.gif
 pinimg.com/ct/lib/main.2a04f3ee.js
-youtube.com/s/player/9f996d3e/player_ias.vflset/en_US/base.js
+youtube.com/s/player/490079fb/player_ias.vflset/en_US/base.js
 youtube.com/iframe_api
 yahoo.com/bidRequest
-yahoo.com/sync/adx
 yahoo.com/sync/gumgum
+yahoo.com/sync/adx
 momagic.com/usersync/
 fiftyt.com/p.gif
 resetdigital.co/csync/pubmatic
