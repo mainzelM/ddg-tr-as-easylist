@@ -242,7 +242,6 @@ wondershare.cc/chatbot/latest/assets/web_sdk.js
 socastsrm.com/cdn_v16.0.1/application/js/custom.js
 zopim.com/w
 wonderanal.com/wsAnalytics.min.js
-momagic.com/usersync/
 1964890999.rsc.cdn77.org/152.0.0-Luscious-2021-02-27/build/client/main3f0c6a2f9679a3ada694.js
 coveo.com/searchui/v2.4609/js/CoveoJsSearch.Lazy.min.js
 coveo.com/searchui/v2.7219/js/CoveoJsSearch.Lazy.min.js
