@@ -1,8 +1,8 @@
 linkedin.com/px/li_sync
 trueleadid.com/cog.gif
-pinimg.com/ct/lib/main.2a04f3ee.js
-youtube.com/s/player/490079fb/player_ias.vflset/en_US/base.js
+pinimg.com/ct/lib/main.dec9de31.js
 youtube.com/iframe_api
+youtube.com/s/player/223a7479/player_ias.vflset/en_US/base.js
 yahoo.com/bidRequest
 yahoo.com/sync/gumgum
 yahoo.com/sync/adx
@@ -11,6 +11,7 @@ fiftyt.com/p.gif
 resetdigital.co/csync/pubmatic
 taboola.com/sg/pubmatic-ssp-network/1/rtb-h
 intentiq.com/profiles_engine/ProfilesEngineServlet
+cognitivlabs.com/ix.gif
 addthis.com/js/300/addthis_widget.js
 addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html
 addthis.com/e/a-1189/s-3614
