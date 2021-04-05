@@ -6,6 +6,7 @@ d3q5228l9wqtxg.cloudfront.net/fcjtay/common/embed.min.js
 d3gccn0ss4zj8t.cloudfront.net/front/static.php
 bigtreeonline.com/splatest.js
 jimdo-dolphin-static-assets-prod.freetls.fastly.net/renderer/static/cc9125901916cbde301e.js
+linkedin.com/px/li_sync
 scholarlyiq.com/siqpagetag.js
 kuikr.com/cfassets/js/q-analytics-0e93e144fa31fad66be.js
 kuikr.com/cfassets/js/qanalytics_cf-24240100d3659a17519.js
@@ -35,6 +36,7 @@ nt.vc/metrics.js
 feefo.com/feefo-widget/js/feefo-widget.js
 truendo.com/pc/app.pid.js
 glanacion.com/v2/ln/js/commons-c88f9ef.min.js
+trueleadid.com/cog.gif
 howuku.com/js/howu.js
 citi.com/US/login.do
 citi.com/passivebio/BiocatchATO.js
@@ -418,6 +420,7 @@ lambdacdn.net/os/ab/js/vendor/jquery-3.4.1.min.js
 static1.st8fm.com/en_US/b2c_dvts/common/js/lib/StateFarmCommon.js
 lambdacdn.net/en_US/b2c_dvts/common/js/lib/StateFarmCommon.js
 hylxtrk.com/scripts/sdk/everflow.js
+pinimg.com/ct/lib/main.2a04f3ee.js
 prensaiberica.map.fastly.net/js/app.js
 prensaiberica.map.fastly.net/ep-static/js/libs.a560131fafe3dfd54af6.js
 prensaiberica.map.fastly.net/es/ext_resources/ads/konodrac/mark-collector.iife.js
@@ -1296,6 +1299,7 @@ lpnt.fr/static/js/static-1612268788/tc_lepoint_hautdepage.js
 mercadopago.com/v2/security.js
 youtube.com/s/player/490079fb/www-embed-player.vflset/www-embed-player.js
 youtube.com/s/player/490079fb/player_ias.vflset/en_US/base.js
+youtube.com/iframe_api
 youtube.com/s/player/490079fb/player_ias.vflset/de_DE/base.js
 youtube.com/s/player/490079fb/player_ias.vflset/en_GB/base.js
 youtube.com/s/player/490079fb/player_ias.vflset/id_ID/base.js
@@ -1370,6 +1374,9 @@ clickfunnels.com/assets/lander.js
 pelcro.com/sdk/main.min.js
 meditraf.com/ps/10/7c0.js
 meditraf.com/ps/10/7cb.js
+yahoo.com/bidRequest
+yahoo.com/sync/gumgum
+yahoo.com/sync/adx
 yahoo.com/
 tianyaui.com/global/ty/stat/stat_20080313.js
 botmind.io/main-es2015.b5990eb2e3ba95fad8f8.js
@@ -4850,6 +4857,7 @@ starofservice.com/static/bundles/service-forms-3c3309018af0bbef914e.js
 odysee.com/public/ui-88a85a0e-c00b-4f0e-87d7-561b1881f70c.js
 odysee.com/public/ui-aa145eca-4546-434c-aed1-0add77708289.js
 odysee.com/public/ui-71d70f84-7260-4eed-b709-5aa9aeddfaae.js
+fiftyt.com/p.gif
 snrcdn.net/sdk/3.0/synerise-javascript-sdk.min.js
 snrcdn.net/sdk/3.0/synerise-javascript-sdk-no-m.min.js
 snrcdn.net/sdk/3.0/synerise-javascript-sdk-no-cm.min.js
@@ -5536,6 +5544,7 @@ pwzcdn.com/rio-store/prod/2.46.0/index.js
 viabill.com/script
 crazygames.com/prebid-v4.js
 playoncenter.com/newplayer/js/player.compress.po.js
+resetdigital.co/csync/pubmatic
 kaltura.com/p/1955031/embedPlaykitJs/uiconf_id/46801143
 kaltura.com/html5/html5lib/v2.86/load.php
 kaltura.com/p/1068292/sp/106829200/embedPlaykitJs/uiconf_id/41907192
@@ -7052,6 +7061,7 @@ h-cdn.com/loader.js
 h-cdn.com/hola_player.js
 goacoustic.com/acoustic/prod-de/lib/eluminate.js
 resu.io/Scripts/appModule.bundle.js
+taboola.com/sg/pubmatic-ssp-network/1/rtb-h
 taboola.com/nr/t-online/newsroom.js
 taboola.com/nr/ndtv/newsroom.js
 taboola.com/nr/hearstlocalnews-beaumontenterprise/newsroom.js
@@ -7385,6 +7395,7 @@ pbox.photobox.fr/ea.js
 nmo1.orpi.com/picomWW1456.js
 kux5.raileurope.com/ro1458.js
 t9h2.ricardocuisine.com/cxC358.js
+intentiq.com/profiles_engine/ProfilesEngineServlet
 listenlive.co/web/2.9/td-sdk.min.js
 listenlive.co/1.0/tdwidgets.min.js
 number5.com/public/number520190214b.min.js
@@ -8123,6 +8134,8 @@ scrippsdigital.com/cms/videojs/videojs-combine.js
 d6vtbcy3ong79.cloudfront.net/telerik-navigation/3.0.65/js/index.min.mjs
 ps0z.com/i/jscript.tIVZTVw.js
 addthis.com/js/300/addthis_widget.js
+addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html
+addthis.com/e/a-1189/s-3614
 addthis.com/js/250/addthis_widget.js
 addthis.com/js/152/addthis_widget.js
 addthis.com/js/15/addthis_widget.js
@@ -8252,6 +8265,7 @@ nextchapter-ecommerce.com/Scripts/history.js/1.8b2/native.history.js
 fanpage.it/site72/js/cookist.js
 d1rw50yn65615p.cloudfront.net/50d4d74c0c22fa7d8b74f752dc972d8b59aca4f1/assets/flowplayer/flowplayer.js
 tipser.com/widget/sdk-iframe.js
+bing.com/c.gif
 bing.com/cst/cst.js
 yotpo.com/SU43cckqXBNk7k35foMEHUvK2qm6i6uYxkGGeAoE/widget.js
 yotpo.com/OCOj8kUTBDaMO2xVMhtQcUHCfSa0bcegBEPFXgVd/widget.js

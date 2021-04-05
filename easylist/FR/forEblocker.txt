@@ -1,3 +1,4 @@
+linkedin.com/px/li_sync
 crisp.chat/l.js
 crisp.chat/static/javascripts/client.js
 acquire.io/dist/frontend.f9fe714cd471558831def996f13e4dd9ef761c09.bundle.min.js
@@ -12,6 +13,7 @@ s.alicdn.com/@g/sc/home-aisn/0.0.16/pages/index.js
 alibabadns.com/@g/sc/home-aisn/0.0.16/pages/index.js
 s.alicdn.com/@g/sc/header-footer/0.0.49/sc-header-footer/header/entrances/defer-common/defer-common.js
 alibabadns.com/@g/sc/header-footer/0.0.49/sc-header-footer/header/entrances/defer-common/defer-common.js
+cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js
 cloudflare.com/ajax/libs/video.js/7.7.5/video.min.js
 cloudflare.com/ajax/libs/video.js/7.10.2/video.min.js
 cloudflare.com/ajax/libs/es5-shim/4.5.10/es5-shim.min.js
@@ -37,6 +39,7 @@ freshchat.com/static/assets/vendor-fa663bf6ab59c356d5e98aabbea77fbd.js
 freshchat.com/static/assets/fc_web_widget-fe18e6e1f35cc90123b253d9103751a9.js
 freshchat.com/static/assets/vendor-655ad9511739d60d50443bc139b24ef4.js
 freshchat.com/static/assets/fc_web_widget-af8ec17cb2d9c22426155f32227a2f44.js
+pinimg.com/ct/lib/main.2a04f3ee.js
 others-cdn.com/v-b8cbe682f62/v3/js/skins/min/trade.header.static.js
 ir.ebaystatic.com/rs/v/it02syay0qyozhdaszhv1jl4yyd.js
 ebaycdn.net/rs/v/it02syay0qyozhdaszhv1jl4yyd.js
@@ -104,6 +107,7 @@ inforsea.com/player.js
 securedataimages.com/images/cams/flash/swfobject_2.3.min.js
 youtube.com/s/player/6eebf7aa/www-embed-player.vflset/www-embed-player.js
 youtube.com/s/player/6eebf7aa/player_ias.vflset/fr_FR/base.js
+youtube.com/iframe_api
 terre-net-media.fr/scripts/api.min.js
 arc.io/widget/js/core.js
 arc.io/broker/js/broker.5be85bf8.js
@@ -461,6 +465,7 @@ justapinch.com/static/js/diberp_4.2.0.min.js
 d2v4ffmk60pnnm.cloudfront.net/services/wix-perf-measure/1.373.0/wix-perf-measure.bundle.min.js
 facebook.com/rsrc.php/v3iTOp4/yC/l/fr_FR/iq7MXOnIXtI.js
 cartsguru.io/scripts/20200210/dist/tracker.build.min.js
+twimg.com/timeline/profile
 static.jeu.fr/wdg/js_aggregator-active/js/minified/wdg_js_aggregator-MINIFIED-f30cf724f3078ec4f5f290b8cc08d220.js
 static.jeux.fr/wdg/js_aggregator-active/js/minified/wdg_js_aggregator-MINIFIED-f30cf724f3078ec4f5f290b8cc08d220.js
 lswcdn.net/wdg/js_aggregator-active/js/minified/wdg_js_aggregator-MINIFIED-f30cf724f3078ec4f5f290b8cc08d220.js
@@ -503,6 +508,7 @@ edgesuite.net/goofy/tiktok/web/node/_next/static/chunks/captcha30.b2efb78bcc261b
 static.nrk.no/publisering/kurator-visning/assets/index-018ce1b4.mjs
 edgesuite.net/publisering/kurator-visning/assets/index-018ce1b4.mjs
 addthis.com/js/300/addthis_widget.js
+addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html
 addthis.com/js/250/addthis_widget.js
 addthis.com/js/152/addthis_widget.js
 jwplayer.com/libraries/XVKoeS3q.js
