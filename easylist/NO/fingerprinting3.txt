@@ -7,6 +7,12 @@ att.com/public/b00b723bano257c3b986e77e0c37c85
 static-l3.xvideos-cdn.com/v-51b0f4c221c/v3/js/skins/min/default.header.static.js
 fpbns.net/v-51b0f4c221c/v3/js/skins/min/default.header.static.js
 vidyard.com/play/js/vendors~player-pomo-c52277ab4409893b3b01618db5764989.js
+d3a0negjzoatbl.cloudfront.net/assets/ipf/esp.js
+google.com/js/bg/0OkhISzYLxKDNQK93RypyX-IRmM4kzPCiv4AMUMygRQ.js
+google.com/js/th/TI-diBU0EpbdmPNl3WDMEQ3gSSg7ZPRju9Zx8COB4tc.js
+google.com/js/bg/WX7IimsAo_RF7a_KStWqUkPmmU8kKH6_0S6PX737N0g.js
+d2nhtez9he8elg.cloudfront.net/theme/onlyfans/spa/mediaVault.js
+highwebmedia.com/CACHE/js/output.ed5f5a28fb27.js
 main.cdn.wish.com/chgvzwnmlesjb/web.js
 edgekey.net/chgvzwnmlesjb/web.js
 shopify.com/shopifycloud/model-viewer/v0.8/vendors~mv.js

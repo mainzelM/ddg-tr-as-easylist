@@ -2,9 +2,19 @@ linkedin.com/px/li_sync
 cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js
 pinimg.com/ct/lib/main.2a04f3ee.js
 erne.co/pubmatic/cm
+bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
 youtube.com/s/player/223a7479/player_ias.vflset/en_GB/base.js
 youtube.com/iframe_api
 yahoo.com/sync/gumgum
+google.com/cse.js
+google.com/recaptcha/api2/reload
+google.com/js/platform.js
+google.com/translate_a/element.js
+google.com/log
+cookielaw.org/scripttemplates/otSDKStub.js
+cookielaw.org/scripttemplates/6.13.0/otBannerSdk.js
+cookielaw.org/vendorlist/iab2Data.json
 fiftyt.com/p.gif
 scs.arcteryx.com/id
 smetric.betway.com/id
@@ -52,6 +62,7 @@ sams.spiegel.de/id
 smetrics.bt.com/id
 sanalytics.verizon.com/id
 as.welt.de/id
+cookiebot.com/uc.js
 taboola.com/sg/pubmatic-ssp-network/1/rtb-h
 sourcepoint.gizmodo.com/wrapperMessagingWithoutDetection.js
 sourcepoint.jalopnik.com/wrapperMessagingWithoutDetection.js
@@ -119,6 +130,7 @@ consent.yorkshirepost.co.uk/wrapperMessagingWithoutDetection.js
 consent.yorkshireeveningpost.co.uk/wrapperMessagingWithoutDetection.js
 privacy-mgmt.com/wrapperMessagingWithoutDetection.js
 twimg.com/timeline/profile
+stripe.com/6
 addthis.com/js/300/addthis_widget.js
 addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html
 bing.com/c.gif

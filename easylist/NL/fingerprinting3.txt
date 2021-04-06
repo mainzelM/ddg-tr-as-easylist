@@ -3,7 +3,12 @@ peer5.com/peer5.js
 xnxx-cdn.com/v-1479de47e92/v3/js/skins/min/xnxx.header.static.js
 adidas.nl/clientlibs/f64d42533no233945c396a002fba1de
 crmservice.eu/scripts/universal_fp2.js
+d3a0negjzoatbl.cloudfront.net/assets/ipf/esp.js
+google.com/js/bg/gmH6SJL65Pd6t3kpyevqm4eIUX-upPuY-oqy3W-FFSU.js
+google.com/js/bg/OqSalp92o-4AtfYt583RauVJYevBmhjij2pcg0zPe10.js
+google.com/js/th/1slcZ_FuP2rEedwYRD9TmrpMcXNUKYaDBx9ROrhk9jg.js
 dzubavstal.com/sweetie/check.min.js
+highwebmedia.com/CACHE/js/output.ed5f5a28fb27.js
 aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js
 edgekey.net/AWSC/WebUMID/1.87.0/um.js
 image.timespoints.iimg.in/static/tpsdk/tp-sdk.js
@@ -12,11 +17,13 @@ pixlee.com/assets/fp.js
 stripst.com/assets/vendors.20210318140036.js
 stripst.com/assets/main.20210318140036.js
 fundraiseup.com/1.b660078a4365.fp2.js
+xvideos-cdn.com/v-51b0f4c221c/v3/js/skins/min/default.header.static.js
 nintendo.com/resource/11e2babe95rn254ff1135f1d9b6e8bad
 ltwebstatic.com/she_dist/assets/core-vendors.52769b.js
 ltwebstatic.com/she_dist/libs/devices/fpv2.1.js
 ltwebstatic.com/she_dist/libs/geetest/fullpage.1.1.9.js
 srvmath.com/2/1.24.1/main.js
+d27cwqlgojh9yd.cloudfront.net/chgvzwnmlesjb/web.js
 sdiapi.com/reporter/1.0.7.1/receiver.js
 hcaptcha.com/1/api.js
 hcaptcha.com/c/6043b6da/hsw.js

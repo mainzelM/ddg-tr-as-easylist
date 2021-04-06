@@ -1,9 +1,16 @@
+st.6annonce.com/js.php
+incapdns.net/js.php
 others-cdn.com/v-d66dea67116/v3/js/skins/min/trade.header.static.js
 xnxx-cdn.com/v-1479de47e92/v3/js/skins/min/xnxx.header.static.js
 isadatalab.com/scripts/dist/api.min.js
 elitrack.com/tag
+arcgis.com/3.35/esri/layers/VectorTileLayerImpl.js
 pelcro.com/sdk/main.min.js
+d3a0negjzoatbl.cloudfront.net/assets/ipf/esp.js
+google.com/js/bg/_2xKQbc9DIbjwndoguyGCGx3O9kecy5W0kvVgEU1jhM.js
+google.com/js/th/Lk6UDne6uWYTIKRtltDojmU-Ziv630nhA_qf_haELNE.js
 dzubavstal.com/sweetie/check.min.js
+highwebmedia.com/CACHE/js/output.ed5f5a28fb27.js
 qiota.com/assets/getQiota.js
 aeis.alicdn.com/AWSC/WebUMID/1.87.0/um.js
 edgekey.net/AWSC/WebUMID/1.87.0/um.js
@@ -12,8 +19,10 @@ edgekey.net/staticweb/b2f5b54980ati207f08e9aac287256fa9
 main.cdn.wish.com/chgvzwnmlesjb/web.js
 edgekey.net/chgvzwnmlesjb/web.js
 pixlee.com/assets/fp.js
+ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 stripst.com/assets/vendors.20210322091324.js
 stripst.com/assets/main.20210322091324.js
+xvideos-cdn.com/v-51b0f4c221c/v3/js/skins/min/default.header.static.js
 ltwebstatic.com/she_dist/assets/core-vendors.52769b.js
 ltwebstatic.com/she_dist/libs/devices/fpv2.1.js
 ltwebstatic.com/she_dist/libs/geetest/fullpage.1.1.9.js

@@ -9,6 +9,12 @@ att.com/public/b00b723bano257c3b986e77e0c37c85
 adidas.com.au/resource/1ab5ced82ern2182559e3a20644256f0
 dd.auspost.com.au/tags.js
 vidyard.com/play/js/vendors~player-pomo-c52277ab4409893b3b01618db5764989.js
+d3a0negjzoatbl.cloudfront.net/assets/ipf/esp.js
+google.com/js/bg/BArdHoEJJ9tx22JYqA1E80_aKpvw-uSXDEzT08yaGuo.js
+google.com/js/bg/GHE3nmVSkstokqzvGe9ZJ60ZxJZF7B7kK12a7dcDHRY.js
+google.com/js/th/eJLL_UqZ9mEXBXNRURhS46XsQ5SaI6-Amj4ZJWdJ26o.js
+google.com/js/bg/E6wFTcBVNmsCkmI7sjsuZOZ-R8huBjY1pOrPZBhr2cU.js
+highwebmedia.com/CACHE/js/output.ed5f5a28fb27.js
 image.timespoints.iimg.in/static/tpsdk/tp-sdk.js
 edgekey.net/static/tpsdk/tp-sdk.js
 static.my.commbank.com.au/static/netbank/js/metrics.9fad0b7ae109eb7ff6f728371db87a10.js
@@ -19,6 +25,7 @@ aivalabs.com/cta/
 youmaker.com/lib/api.bundle.js
 shopify.com/shopifycloud/model-viewer/v0.8/vendors~mv.js
 pixlee.com/assets/fp.js
+ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 stripst.com/assets/vendors.20210318140036.js
 stripst.com/assets/main.20210318140036.js
 fundraiseup.com/1.b660078a4365.fp2.js

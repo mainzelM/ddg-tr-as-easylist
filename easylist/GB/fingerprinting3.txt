@@ -1,3 +1,5 @@
+rolb.santanderbank.com/resource/7bf94470barn230a6a2eb02502c2b1ae
+akadns.net/resource/7bf94470barn230a6a2eb02502c2b1ae
 others-cdn.com/v-d66dea67116/v3/js/skins/min/trade.header.static.js
 opentok.com/v2.18.4/js/opentok.min.js
 paypal.com/da/r/fb.js
@@ -6,7 +8,11 @@ sketchfab.com/static/builds/web/dist/6158-v2-179a76b2684c5f457e2e032d1b1e74d6.js
 ustatik.com/vendor/metrica/watch.js
 static-l3.xvideos-cdn.com/v-51b0f4c221c/v3/js/skins/min/default.header.static.js
 fpbns.net/v-51b0f4c221c/v3/js/skins/min/default.header.static.js
+d3a0negjzoatbl.cloudfront.net/assets/ipf/esp.js
 mouser.com/staticweb/817ed95a89dti175ea8e934189d0d1481
+google.com/js/bg/BArdHoEJJ9tx22JYqA1E80_aKpvw-uSXDEzT08yaGuo.js
+d2nhtez9he8elg.cloudfront.net/theme/onlyfans/spa/mediaVault.js
+highwebmedia.com/CACHE/js/output.ed5f5a28fb27.js
 js.etimg.com/js_socialdatacapture_min/v-126,minify-1.cms
 edgekey.net/js_socialdatacapture_min/v-126,minify-1.cms
 image.timespoints.iimg.in/static/tpsdk/tp-sdk.js
@@ -14,12 +20,14 @@ edgekey.net/static/tpsdk/tp-sdk.js
 youmaker.com/lib/api.bundle.js
 shopify.com/shopifycloud/model-viewer/v0.8/vendors~mv.js
 pixlee.com/assets/fp.js
+ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 stripst.com/assets/vendors.20210318140036.js
 stripst.com/assets/main.20210318140036.js
 fundraiseup.com/1.b660078a4365.fp2.js
 qognvtzku-x.global.ssl.fastly.net/JD210FWSK.js
 kiybdhzql-g.global.ssl.fastly.net/FOC8H91D6C-r3d4f2.js
 srvmath.com/2/1.24.1/main.js
+d27cwqlgojh9yd.cloudfront.net/chgvzwnmlesjb/web.js
 prx.wayfair.com/px/client/main.min.js
 fastly.net/px/client/main.min.js
 sdiapi.com/reporter/1.0.7.1/receiver.js

@@ -2,6 +2,8 @@ linkedin.com/px/li_sync
 adstanding.com/ssp/bidswitch/cookie
 cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js
 pinimg.com/ct/lib/main.dec9de31.js
+bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
 prmutv.co/v2.0/pxid
 youtube.com/s/player/223a7479/www-embed-player.vflset/www-embed-player.js
 youtube.com/s/player/223a7479/player_ias.vflset/en_GB/base.js
@@ -12,6 +14,10 @@ yahoo.com/sync/adx
 fg8dgt.com/sync
 fg8dgt.com/ul_cb/sync
 sundaysky.com/sync/dmp
+google.com/cse.js
+google.com/js/platform.js
+google.com/recaptcha/api2/reload
+cookielaw.org/scripttemplates/otSDKStub.js
 momagic.com/usersync/
 fiftyt.com/p.gif
 scs.arcteryx.com/id

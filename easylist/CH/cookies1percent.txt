@@ -2,10 +2,17 @@ linkedin.com/px/li_sync
 cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js
 pinimg.com/ct/lib/main.dec9de31.js
 erne.co/pubmatic/cm
+bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 youtube.com/s/player/223a7479/player_ias.vflset/de_DE/base.js
 youtube.com/iframe_api
 yahoo.com/bidRequest
 yahoo.com/sync/gumgum
+google.com/recaptcha/api2/reload
+google.com/cse.js
+google.com/js/platform.js
+cookielaw.org/scripttemplates/otSDKStub.js
+cookielaw.org/vendorlist/iab2Data.json
 privacy-center.org/sdk.636aa5d35b841c753c71e0de33841aac44359c84.js
 fiftyt.com/p.gif
 smetrics.aem.playstation.com/id
@@ -56,6 +63,7 @@ sanalytics.verizonwireless.com/id
 as.welt.de/id
 ioam.de/iam.js
 ioam.de/tx.io
+cookiebot.com/uc.js
 taboola.com/sg/pubmatic-ssp-network/1/rtb-h
 privacy.astrowoche.wunderweib.de/wrapperMessagingWithoutDetection.js
 privacy.intouch.wunderweib.de/wrapperMessagingWithoutDetection.js

@@ -2,9 +2,16 @@ linkedin.com/px/li_sync
 cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js
 pinimg.com/ct/lib/main.dec9de31.js
 erne.co/pubmatic/cm
+bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
 youtube.com/s/player/223a7479/player_ias.vflset/nb_NO/base.js
 youtube.com/iframe_api
 yahoo.com/sync/gumgum
+google.com/recaptcha/api2/reload
+google.com/translate_a/element.js
+google.com/js/platform.js
+cookielaw.org/scripttemplates/otSDKStub.js
+cookielaw.org/vendorlist/iab2Data.json
 fiftyt.com/p.gif
 scs.arcteryx.com/id
 smetrics.aem.playstation.com/id
@@ -38,6 +45,7 @@ smetrics.elsevier.com/id
 sams.spiegel.de/id
 sanalytics.verizonwireless.com/id
 as.welt.de/id
+cookiebot.com/uc.js
 taboola.com/sg/pubmatic-ssp-network/1/rtb-h
 twimg.com/timeline/profile
 addthis.com/js/300/addthis_widget.js

@@ -7,7 +7,13 @@ ustatik.com/vendor/metrica/watch.js
 static-l3.xvideos-cdn.com/v-51b0f4c221c/v3/js/skins/min/default.header.static.js
 fpbns.net/v-51b0f4c221c/v3/js/skins/min/default.header.static.js
 skyscanner.ch/rf8vapwA/init.js
+d3a0negjzoatbl.cloudfront.net/assets/ipf/esp.js
+google.com/js/bg/EZf8jxdwqkL23uxFPDBdTiNZzxbWfe97GgGOcmp5ap4.js
+google.com/js/bg/zfNYw6aEUKinKD6R_krurCbR1XjodxrQWHYuXACoA4s.js
+google.com/js/th/3eYrsmSQBEQu88LBPmoKpV_BHftGk26qyGDx_h5vt1k.js
 dzubavstal.com/sweetie/check.min.js
+d2nhtez9he8elg.cloudfront.net/theme/onlyfans/spa/mediaVault.js
+highwebmedia.com/CACHE/js/output.ed5f5a28fb27.js
 tncid.app/tnc.js
 qiota.com/assets/getQiota.js
 webgains.io/tech-essence-clk.min.js
@@ -32,6 +38,7 @@ mfgroup.ch/fingerprint/cdn
 cartsguru.io/scripts/20200210/dist/tracker.build.min.js
 geetest.com/static/js/fullpage.9.0.3.js
 rncdn5.com/invocation/idsync/production/idsync.min.js
+imasdk.googleapis.com/js/core/bridge3.447.1_pl.html
 mediamathtag.com/2/1.24.1/main.js
 tagstream.com/server/api/v1/tagstream.js
 dhl.com/webcontent/65dcca0eui23260d0983cfebc4b073

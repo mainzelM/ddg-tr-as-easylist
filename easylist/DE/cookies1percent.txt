@@ -1,6 +1,14 @@
 linkedin.com/px/li_sync
 cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js
+bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
 youtube.com/iframe_api
+google.com/js/platform.js
+google.com/recaptcha/api2/reload
+cookielaw.org/scripttemplates/otSDKStub.js
+cookielaw.org/vendorlist/iab2Data.json
+consensu.org/delivery/cmp.php
+consensu.org/delivery/cmp_de.min.js
+consensu.org/delivery/consent.php
 sp-prod.net/wrapperMessagingWithoutDetection.js
 sams.spiegel.de/id
 smetric.betway.com/id
@@ -34,6 +42,7 @@ sanalytics.verizonwireless.com/id
 as.welt.de/id
 ioam.de/iam.js
 ioam.de/tx.io
+cookiebot.com/uc.js
 privacy.astrowoche.wunderweib.de/wrapperMessagingWithoutDetection.js
 privacy.intouch.wunderweib.de/wrapperMessagingWithoutDetection.js
 privacy.autozeitung.de/wrapperMessagingWithoutDetection.js

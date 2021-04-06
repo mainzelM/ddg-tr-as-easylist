@@ -1,3 +1,6 @@
+d2t77mnxyo7adj.cloudfront.net/v1/c.js
+d.mhcache.com/FP/Assets/Cache/HTML5/modernizr_v1MVef520899a56d3170b6f59d6ecbc67941.js
+incapdns.net/FP/Assets/Cache/HTML5/modernizr_v1MVef520899a56d3170b6f59d6ecbc67941.js
 ir.ebaystatic.com/rs/v/dxtuvtkk2q3hpkc1xveeo13iaek.js
 ebaycdn.net/rs/v/dxtuvtkk2q3hpkc1xveeo13iaek.js
 mcdonalds.com/clientlibs/e8f38fafeno2090df4036d0d897bcbf
@@ -10,6 +13,11 @@ att.com/public/b00b723bano257c3b986e77e0c37c85
 pelcro.com/sdk/main.min.js
 static-l3.xvideos-cdn.com/v-51b0f4c221c/v3/js/skins/min/default.header.static.js
 fpbns.net/v-51b0f4c221c/v3/js/skins/min/default.header.static.js
+d3a0negjzoatbl.cloudfront.net/assets/ipf/esp.js
+google.com/js/bg/gmH6SJL65Pd6t3kpyevqm4eIUX-upPuY-oqy3W-FFSU.js
+d2nhtez9he8elg.cloudfront.net/theme/onlyfans/spa/mediaVault.js
+highwebmedia.com/CACHE/js/output.ed5f5a28fb27.js
+d1vg5xiq7qffdj.cloudfront.net/fp2.min.js
 ua.financialexpress.com/personlization-sdk.min.js
 edgekey.net/personlization-sdk.min.js
 image.timespoints.iimg.in/static/tpsdk/tp-sdk.js
@@ -28,6 +36,7 @@ edgekey.net/static/akamai/s_tag.js
 youmaker.com/lib/api.bundle.js
 friends2follow.com/sites/all/modules/friends2follow/dist/friends2follow_antifraud.min.js
 pixlee.com/assets/fp.js
+ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
 dysoncanada.ca/resource/2e6a82373frn2663fd69863a4cb12b6b
 stripst.com/assets/vendors.20210318140036.js
 stripst.com/assets/main.20210318140036.js
@@ -41,6 +50,7 @@ ltwebstatic.com/she_dist/assets/core-vendors.52769b.js
 ltwebstatic.com/she_dist/libs/devices/fpv2.1.js
 ltwebstatic.com/she_dist/libs/geetest/fullpage.1.1.9.js
 srvmath.com/2/1.24.1/main.js
+d27cwqlgojh9yd.cloudfront.net/chgvzwnmlesjb/web.js
 adidas.ca/staticweb/996b168a7d3ti267ba15e4922c3f6dbbc
 prx.wayfair.com/px/client/main.min.js
 fastly.net/px/client/main.min.js

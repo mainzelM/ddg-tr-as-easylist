@@ -4,6 +4,8 @@ pinimg.com/ct/lib/main.dec9de31.js
 erne.co/pubmatic/cm
 zendesk.com/embeddable/config
 zendesk.com/embeddable_blip
+bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
 prmutv.co/v2.0/pxid
 youtube.com/iframe_api
 youtube.com/s/player/223a7479/www-embed-player.vflset/www-embed-player.js
@@ -12,8 +14,14 @@ yahoo.com/sync/gumgum
 yahoo.com/bidRequest
 yahoo.com/sync/adx
 yahoo.com/sync/iponweb
+google.com/cse.js
+google.com/log
+google.com/recaptcha/api2/reload
+google.com/js/platform.js
 zipmoney.com.au/v1/assets
 zipmoney.com.au/lib/js/zm-widget-js/dist/zip-widget.min.js
+cookielaw.org/scripttemplates/otSDKStub.js
+livechatinc.com/customer
 fiftyt.com/p.gif
 smetrics.10play.com.au/id
 smetrics.element14.com/id
@@ -64,10 +72,13 @@ smetrics.elsevier.com/id
 sanalytics.verizonwireless.com/id
 metrics.weeklytimesnow.com.au/id
 smetrics.cbn.com/id
+zdassets.com/web_widget/latest/chat-sdk.34475bc42f3df2dfabe9.chunk.js
 taboola.com/sg/pubmatic-ssp-network/1/rtb-h
 cognitivlabs.com/ix.gif
 twimg.com/timeline/profile
 r-ad.ne.jp/3/cs
+stripe.com/v3/
+stripe.com/6
 addthis.com/js/300/addthis_widget.js
 addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html
 bing.com/c.gif
