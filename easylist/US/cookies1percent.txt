@@ -1,14 +1,13 @@
 linkedin.com/px/li_sync
 trueleadid.com/cog.gif
-pinimg.com/ct/lib/main.dec9de31.js
-bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
-youtube.com/s/player/e0d06a61/player_ias.vflset/en_US/base.js
+pinimg.com/ct/lib/main.174fc5ea.js
 youtube.com/iframe_api
+youtube.com/s/player/08244190/www-embed-player.vflset/www-embed-player.js
+youtube.com/s/player/08244190/player_ias.vflset/en_US/base.js
 yahoo.com/bidRequest
 yahoo.com/sync/gumgum
 google.com/js/platform.js
 google.com/recaptcha/api2/reload
-cookielaw.org/scripttemplates/otSDKStub.js
 fiftyt.com/p.gif
 resetdigital.co/csync/pubmatic
 taboola.com/sg/pubmatic-ssp-network/1/rtb-h
