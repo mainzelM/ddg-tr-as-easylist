@@ -1,14 +1,12 @@
 linkedin.com/px/li_sync
 cloudflare.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
-pinimg.com/ct/lib/main.174fc5ea.js
-youtube.com/s/player/fba90263/www-embed-player.vflset/www-embed-player.js
-youtube.com/s/player/fba90263/player_ias.vflset/nl_NL/base.js
+pinimg.com/ct/lib/main.c6ca189a.js
+youtube.com/s/player/2fa3f946/www-embed-player.vflset/www-embed-player.js
 youtube.com/youtubei/v1/log_event
 youtube.com/iframe_api
 google.com/recaptcha/api2/reload
 privacymanager.io/1/gdpr.bundle.js
 cookiebot.com/uc.js
-twimg.com/timeline/profile
 addthis.com/js/300/addthis_widget.js
 addthis.com/static/sh.f48a1a04fe8dbf021b4cda1d.html
 bing.com/c.gif
