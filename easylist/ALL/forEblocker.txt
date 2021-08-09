@@ -1,3 +1,6 @@
+! Last modified: 08 Aug 2021 11:41 UTC
+! Expires: 100 days (update frequency)
+! Checksum: RLJzthGvhGeosedN+Fy+jg
 0.code.cotsta.ru/dist/a.min.js
 0.code.cotsta.ru/dist/p4.41.0.js
 003069e4.de.ioam.de/tx.io
