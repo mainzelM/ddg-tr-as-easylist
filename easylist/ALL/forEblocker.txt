@@ -1,6 +1,6 @@
-! Last modified: 25 Sep 2021 11:41 UTC
+! Last modified: 04 Oct 2021 11:41 UTC
 ! Expires: 100 days (update frequency)
-! Checksum: ULl72ITVpftSCE2J/66KzA
+! Checksum: hMJJqmg7isatQe6V7fiFGA 
 0.code.cotsta.ru/dist/a.min.js
 0.code.cotsta.ru/dist/p4.41.0.js
 000bcdd3.de.ioam.de/tx.io
@@ -9462,7 +9462,6 @@ havasunews.friends2follow.com/sites/all/modules/friends2follow/dist/jquery.min.j
 hb.headerbiddr.net/assets/js/pb/prebid-4.26.0-pre.js
 hbh.attn.tv/creative
 hbh.attn.tv/d/
-hcaptcha.com/1/api.js
 hdbloghome.disqus.com/embed.js
 hdhub4u-comments.disqus.com/embed.js
 hdmo-uno.disqus.com/embed.js
@@ -11372,7 +11371,6 @@ js.boxx.ai/
 js.digitalriver.com/v1/DigitalRiver.js
 js.driftt.com/core/assets/js/10.704ab67c.chunk.js
 js.esolutionsgroup.ca/js/libs/media-element/2.13.2/mediaelement-and-player.min.js
-js.hcaptcha.com/1/api.js
 js.hsleadflows.net/leadflows.js
 js.iplsc.com/iwa3/3.0.80/new/main.iwa.js
 js.pelcro.com/sdk/main.min.js
@@ -12473,13 +12471,6 @@ nelly.zendesk.com/embeddable_blip
 netgear.attn.tv/creative
 netgear.attn.tv/d/
 netwerk-24.disqus.com/embed.js
-newassets.hcaptcha.com/c/108e028e/hsw.js
-newassets.hcaptcha.com/c/2b32547d/hsw.js
-newassets.hcaptcha.com/c/420b6d0a/hsw.js
-newassets.hcaptcha.com/captcha/v1/b1129b9/hcaptcha-challenge.js
-newassets.hcaptcha.com/captcha/v1/b1129b9/hcaptcha-checkbox.js
-newassets.hcaptcha.com/captcha/v1/ed13fbc/hcaptcha-challenge.js
-newassets.hcaptcha.com/captcha/v1/ed13fbc/hcaptcha-checkbox.js
 newbalanceau.zendesk.com/embeddable/config
 newbalanceau.zendesk.com/embeddable_blip
 newburyportnews-cnhi-pw.newsmemory.com/
@@ -22510,7 +22501,6 @@ www.googletagservices.com/dcm/impl_v72.js
 www.googletagservices.com/dcm/impl_v76.js
 www.googletagservices.com/dcm/impl_v78.js
 www.groupon.com/VDF7o4/s/w/GJeKKRG36oU3/5ua7kfkEEfE1/SwNsVyoB/cDgs/dEsiFEg
-www.hcaptcha.com/1/api.js
 www.hylxtrk.com/scripts/sdk/everflow.js
 www.instagram.com/static/bundles/es6/EmbedSimple.js/1305bd94161c.js
 www.instagram.com/static/bundles/es6/EmbedSimple.js/334b3045d4ae.js
