@@ -14,7 +14,6 @@ rtb.adstanding.com/cookie
 exchange.adstanding.com/partners/adstanding/sync.php
 client.crisp.chat/l.js
 client.crisp.chat/static/javascripts/client.js
-cdn.ziffstatic.com/sitenotice/evidon-sitenotice-bundle.js
 loader.wisepops.com/get-loader.js
 collect.rbcroyalbank.com/collect.js
 nova.collect.igodigital.com/c2/7294568/track_page_view
@@ -53,9 +52,6 @@ assetscdn-wchat.freshchat.com/static/assets/fd-messaging.7a49992a1ea3a6a738b4.js
 s.pinimg.com/ct/lib/main.32155010.js
 s.pinimg.com/ct/lib/main.6ae4a9fc.js
 mssl.fwmrm.net/libs/adm/6.23.0/AdManager.js
-ir.ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js
-ir.ebaystatic.com/cr/v/c1/globalheader_widget_platform__v2-b70676194b.js
-ir.ebaystatic.com/rs/v/fu3xj0y0222sdns2ocqkl0t4dak.js
 ir.ebaystatic.com/rs/v/dxtuvtkk2q3hpkc1xveeo13iaek.js
 go.ezoic.net/utilcave_com/img/ezoic.png
 g.ezoic.net/detroitchicago/cmbv2.js
@@ -87,7 +83,6 @@ securemetrics.apple.com/b/ss/applesupportglobaldev/1/JS-2.20.0-LBWB/s54880997477
 securemetrics.apple.com/b/ss/applestoreww/1/JS-2.22.0/s44983945688377
 securemetrics.apple.com/b/ss/applesupportglobalprod/1/JS-2.20.0-LBSQ/s4250634015673
 securemetrics.apple.com/b/ss/applestoreww/1/JS-2.22.0/s42998026389589
-az416426.vo.msecnd.net/scripts/c/ms.analytics-web-2.min.js
 my.asos.com/A0SdSH7h40/FfI-/xJ1tUd/J9YQztDV9J/L1c7Ag/QyFcLWBR/Yxo
 api.parsely.com/v2/profile
 api.parsely.com/v2/top/posts
@@ -210,7 +205,6 @@ cdn.webclicks24.com/t/836/847/06.jpg
 widgets.media.weather.com/wxwidget.loader.js
 widgets-red.media.weather.com/wxwidget.mosaic.js
 io.narrative.io/
-static-exp1.licdn.com/sc/h/6mzfdgdkyw015zjnbi8yad3ql
 www.youtube.com/s/player/c3125ad0/www-embed-player.vflset/www-embed-player.js
 www.youtube.com/s/player/c3125ad0/player_ias.vflset/en_GB/base.js
 www.youtube.com/iframe_api
@@ -279,7 +273,6 @@ iscu.ficanex.ada.support/embed/legacy/intro/b369b05/index.js
 pc-financial.ada.support/embed/legacy/intro/b369b05/index.js
 vfcu.ficanex.ada.support/embed/legacy/intro/b369b05/index.js
 js.esolutionsgroup.ca/js/libs/media-element/2.13.2/mediaelement-and-player.min.js
-assets.adobedtm.com/launch-EN919758db9a654a17bac7d184b99c4820.min.js
 cdn.opecloud.com/ope-fox.js
 portal.clickagy.com/external/hasHashes
 js.afterpay.com/afterpay-1.x.js
@@ -1043,7 +1036,6 @@ tracker.cpmdata.net/js
 discovery.evvnt.com/prd/current/evvnt_discovery_plugin_s.js
 unite.nike.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js
 api.nike.com/149e9513-01fa-4fb0-aad4-566afd725d1b/2d206a39-8ed7-437e-a3be-862e0f06eea3/ips.js
-exponea-api.dnb.com/js/exponea.min.js
 cdn.pushowl.com/latest/sdks/pushowl-shopify.js
 cdn.searchspring.net/search/v3/js/searchspring.catalog.js
 cdn.searchspring.net/search/v3/lts/searchspring.catalog.js

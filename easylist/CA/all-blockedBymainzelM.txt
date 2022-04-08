@@ -29,7 +29,6 @@ rtb.adstanding.com/cookie
 exchange.adstanding.com/partners/adstanding/sync.php
 client.crisp.chat/l.js
 client.crisp.chat/static/javascripts/client.js
-cdn.ziffstatic.com/sitenotice/evidon-sitenotice-bundle.js
 www.tns-counter.ru/tcounter.js
 js.wpnsrv.com/pn.php
 cm.ctnsnet.com/int/cm
@@ -451,13 +450,9 @@ bea4.v.fwmrm.net/ad/u
 5d0b6.v.fwmrm.net/ad/u
 mssl.fwmrm.net/libs/adm/6.23.0/AdManager.js
 2ecd5.v.fwmrm.net/ad/g/1
-ir.ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js
-ir.ebaystatic.com/cr/v/c1/globalheader_widget_platform__v2-b70676194b.js
-ir.ebaystatic.com/rs/v/fu3xj0y0222sdns2ocqkl0t4dak.js
 ir.ebaystatic.com/rs/v/dxtuvtkk2q3hpkc1xveeo13iaek.js
 ecdn.firstimpression.io/fi_client.js
 ecdn.firstimpression.io/static/js/prebidamp.js
-b.travel-assets.com/travel-pixel-js/1.0.0/app.js
 match.adsrvr.org/track/rid
 match.adsrvr.org/track/cmf/generic
 data.adsrvr.org/track/cmf/generic
@@ -485,7 +480,6 @@ insight.adsrvr.org/track/conv/
 insight.adsrvr.org/tags/r8thqty/40nlzly/iframe
 insight.adsrvr.org/tags/j80ecmm/vsa21y0o/iframe
 wcs.naver.net/wcslog.js
-az725175.vo.msecnd.net/scripts/jsll-4.js
 c.adsco.re/
 6.adsco.re/
 adsco.re/p
@@ -885,7 +879,6 @@ ads.adthrive.com/builds/core/71f8756/js/adthrive.min.js
 ads.adthrive.com/builds/core/71f8756/vendor/prebid/prebid.min.js
 deliver.ptgncdn.com/5a47a834.js
 deliver.ptgncdn.com/cdn-cgi/bm/cv/669835187/api.js
-az416426.vo.msecnd.net/scripts/c/ms.analytics-web-2.min.js
 sync.colossusssp.com/pp.gif
 sync.colossusssp.com/td.gif
 sync.colossusssp.com/bidswitch.gif
@@ -2615,8 +2608,6 @@ s.ad.smaato.net/c/
 prebid.ad.smaato.net/oapi/prebid
 s.ad.smaato.net/c/n///-
 waust.at/s.js
-static-exp1.licdn.com/sc/h/6mzfdgdkyw015zjnbi8yad3ql
-platform.linkedin.com/litms/utag/homepage-guest-frontend/utag.js
 segments.company-target.com/log
 segments.company-target.com/validateCookie
 api.company-target.com/api/v2/ip.json
@@ -5878,7 +5869,6 @@ cdn.segment.com/analytics-next/bundles/ajs-destination.bundle.5c4dc5a893f01d22d9
 cdn.segment.com/next-integrations/integrations/mixpanel/3.2.1/mixpanel.dynamic.js.gz
 cdn.segment.com/analytics.js/v1/C1OARNw154AoTcLi7q1yIlkSDoTKLVVj/analytics.min.js
 kr.ixiaa.com/C726AB29-0470-440B-B8D2-D552CED3A3DC/a.gif
-assets.adobedtm.com/launch-EN919758db9a654a17bac7d184b99c4820.min.js
 dpm.demdex.net/demconf.jpg
 dpm.demdex.net/ibs:dpid=79908&dpuuid=c:28069f56f41451d15e846a255383ef6a&redir=https%3A%2F%2Faorta.clickagy.com%2Fpixel.gif%3Fclkgypv%3Dpxl%26ch%3D124%26cm%3D%24%7BDD_UUID%7D
 dpm.demdex.net/id
@@ -12231,7 +12221,6 @@ cdn.keywee.co/config/262.js
 cdn.keywee.co/config/127.js
 tt.onthe.io/uniques/
 tt.onthe.io/
-exponea-api.dnb.com/js/exponea.min.js
 pixel.sojern.com/idSync/AdX
 pixel.sojern.com/idsync/ttd
 pixel.sojern.com/idsync/apn

@@ -216,6 +216,7 @@ its.tradelab.fr/
 r.remarketingpixel.com/px.gif
 bs.serving-sys.com/Serving
 wcs.naver.net/wcslog.js
+az725175.vo.msecnd.net/scripts/jsll-4.js
 www.getmarvia.com/hs/cta/ctas/v2/public/cs/cta-loaded.js
 pp.d2-apps.net/v1/redirect
 9to5mac-com.videoplayerhub.com/gallery.js
@@ -1395,6 +1396,9 @@ oudersvannu.pushengage.com/service-worker.js
 vtwonen.pushengage.com/service-worker.js
 clientcdn.pushengage.com/core/b3481a43-875e-4bab-a23b-5627eb02.js
 clientcdn.pushengage.com/core/c319c33fd51122ec0742cd6f11adae87.js
+inzicht.cz.nl/ppms.js
+statistiek.rvo.nl/ppms.js
+p-pan.triodos.com/ppms.js
 cbs.containers.piwik.pro/7cd61318-6d21-4775-b1b2-64ec78d416e1.js
 svb.containers.piwik.pro/8bda5495-3d5b-40c3-a4ac-3636b5895400.js
 d1a3jb5hjny5s4.cloudfront.net/
@@ -3309,6 +3313,8 @@ exr-mms.expertreviews.co.uk/Notice.03819.css
 cmp.netzwelt.de/Notice.03819.css
 exr-mms.expertreviews.co.uk/polyfills.d36c5.js
 cmp.netzwelt.de/polyfills.d36c5.js
+exr-mms.expertreviews.co.uk/Notice.70828.js
+cmp.netzwelt.de/Notice.70828.js
 exr-mms.expertreviews.co.uk/wrapper/tcfv2/v1/gdpr/native-message
 cmp.netzwelt.de/wrapper/tcfv2/v1/gdpr/native-message
 exr-mms.expertreviews.co.uk/wrapperMessagingWithoutDetection.js

@@ -239,6 +239,7 @@ cdn.soko.ai/ft.min.js
 bs.serving-sys.com/Serving
 wcs.naver.net/wcslog.js
 tracking.3ds.com/ad-lib/isadblocker.js
+az725175.vo.msecnd.net/scripts/jsll-4.js
 tags.clickintext.net/replicate.log/
 www-107-classic.clickintext.net/execs/content.php
 tags.clickintext.net/takeasafe/
@@ -2951,6 +2952,7 @@ cdn-ukwest.onetrust.com/scripttemplates/6.21.0/otBannerSdk.js
 cdn-ukwest.onetrust.com/scripttemplates/6.21.0/assets/otCenterRounded.json
 cdn-ukwest.onetrust.com/scripttemplates/6.21.0/assets/otCommonStyles.css
 cdn-ukwest.onetrust.com/consent/575fe7b4-2850-4abe-92c3-f3e033b52bce-test/575fe7b4-2850-4abe-92c3-f3e033b52bce-test.json
+c.oracleinfinity.io/acs/common/js/1.3.43/common.js
 c.oracleinfinity.io/acs/account/wh3g12c3gg/js/mysql/odc.js
 c.oracleinfinity.io/acs/account/wh3g12c3gg/js/mysql/analytics-production.js
 c.oracleinfinity.io/acs/account/wh3g12c3gg/js/mysql/analytics-production/analytics.js
@@ -3925,6 +3927,7 @@ creative.alxbgo.com/widgets/prefetch.1b1a5468036514c0674c.js
 creative.alxbgo.com/widgets/AdNetworkPixels.1b1a5468036514c0674c.js
 go.alxbgo.com/api/models
 go.alxbgo.com/eye.gif
+live.whassup.fr/cdn-cgi/bm/cv/669835187/api.js
 live.whassup.fr/cdn-cgi/bm/cv/result
 chaturbate.com/affiliates/in/x1Rd/tqdXe/
 pebed.dm-event.net/
@@ -3952,6 +3955,13 @@ tag.escalated.io/post
 browser.pipe.aria.microsoft.com/Collector/3.0/
 browser.events.data.microsoft.com/OneCollector/1.0/
 dmg0877nfcvqj.cloudfront.net/
+matomo.rtl.fr/matomo.js
+matomo.rtl2.fr/matomo.js
+matomo.cuisineaz.com/matomo.js
+matomo.deco.fr/matomo.js
+matomo.fourchette-et-bikini.fr/matomo.js
+matomo.meteocity.com/matomo.js
+matomo.turbo.fr/matomo.js
 matomo.rtl.fr/matomo.php
 matomo.rtl2.fr/matomo.php
 matomo.deco.fr/matomo.php

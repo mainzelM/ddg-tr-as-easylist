@@ -5,11 +5,9 @@ widgets.abtasty.com/@abtasty/scroll-tracking@3.0.4
 www.linkedin.com/px/li_sync
 client.crisp.chat/l.js
 client.crisp.chat/static/javascripts/client.js
-cdn.ziffstatic.com/sitenotice/evidon-sitenotice-bundle.js
 register.feefo.com//feefo-widget/js/feefo-widget.js
 a.optnmstr.com/app/js/api.min.js
 loader.wisepops.com/get-loader.js
-bizible.dnb.com/scripts/bizible.js
 nova.collect.igodigital.com/c2/7294568/track_page_view
 nova.collect.igodigital.com/c2/10907971/track_page_view
 nova.collect.igodigital.com/c2/6274621/track_page_view
@@ -42,9 +40,6 @@ akjz.club/src/fc7e212ef55b7acf402d95c48f6f3275/invoke.js
 akjz.club/src/ecaf0a030e5bf6f45d3de042532b2105/invoke.js
 akjz.club/src/88c133a669ffd797950ad06751d2ef32/invoke.js
 s.pinimg.com/ct/lib/main.32155010.js
-ir.ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js
-ir.ebaystatic.com/cr/v/c1/globalheader_widget_platform__v2-b70676194b.js
-ir.ebaystatic.com/rs/v/fu3xj0y0222sdns2ocqkl0t4dak.js
 ir.ebaystatic.com/rs/v/dxtuvtkk2q3hpkc1xveeo13iaek.js
 cdn.loop11.com/embed.js
 green.erne.co/pubmatic/cm
@@ -451,7 +446,6 @@ securemetrics.apple.com/b/ss/applesupportglobalprod/1/JS-2.20.0-LBWB/s7884464829
 securemetrics.apple.com/b/ss/applestoreww/1/JS-2.22.0/s7815166320633
 securemetrics.apple.com/b/ss/applesupportglobalprod/1/JS-2.20.0-LBSQ/s79556542075457
 securemetrics.apple.com/b/ss/applestoreww/1/JS-2.22.0/s79716934987809
-az416426.vo.msecnd.net/scripts/c/ms.analytics-web-2.min.js
 aus-widget.freshworks.com/widgetBase/widget.js
 widget.freshworks.com/widgetBase/widget.js
 euc-widget.freshworks.com/widgetBase/widget.js
@@ -557,8 +551,6 @@ www.youtube.com/s/player/c3125ad0/player_ias.vflset/en_GB/base.js
 www.youtube.com/iframe_api
 www.youtube.com/s/player/c3125ad0/player_ias.vflset/en_US/base.js
 widget.beop.io/fr/public/chunks/9.6.9/c0348b21f1882c1c892f.js
-lpcdn.customermessaging.bupa.com.au/le_secure_storage/3.15.0.0-release_5063/storage.secure.min.html
-lpcdn.messaging.optus.com.au/le_secure_storage/3.15.0.0-release_5063/storage.secure.min.html
 www.paypalobjects.com/muse/analytics/index.html
 www.paypalobjects.com/api/checkout.js
 www.paypalobjects.com/api/checkout.min.js
@@ -587,7 +579,6 @@ static.ada.support/embed/legacy/client/b369b05/index.js
 xid.myob.com/v1/saveId
 xid.myob.com.au/v1/saveId
 xid.myob.com/v1/id/VaGc4Zp6ycBOgRwjErE8MW78mOiLY6U2
-assets.adobedtm.com/launch-EN919758db9a654a17bac7d184b99c4820.min.js
 media-aus.inq.com/media/launch/tcFramework_jssdk.min.js
 js.afterpay.com/afterpay-1.x.js
 r3.dotdigital-pages.com/assets/scripts/LandingPagesEmbedded1_2

@@ -223,6 +223,7 @@ cdn.tradelab.fr/conv/960106.js
 bs.serving-sys.com/Serving
 null88.com/banner/aads_300x250.html
 tracking.3ds.com/ad-lib/isadblocker.js
+az725175.vo.msecnd.net/scripts/jsll-4.js
 c.jabmo.app/com.snowplowanalytics.snowplow/tp2
 pp.d2-apps.net/v1/redirect
 mail.storyhouseegmont.se/tracking/track.gif
@@ -3747,6 +3748,13 @@ a02342.glasgowtimes.co.uk/polyfills.d36c5.js
 a02342.heraldscotland.com/polyfills.d36c5.js
 cmp.netzwelt.de/polyfills.d36c5.js
 a02342.thenational.scot/polyfills.d36c5.js
+cmp.finn.no/Notice.70828.js
+cmp.tek.no/Notice.70828.js
+exr-mms.expertreviews.co.uk/Notice.70828.js
+a02342.glasgowtimes.co.uk/Notice.70828.js
+a02342.heraldscotland.com/Notice.70828.js
+cmp.netzwelt.de/Notice.70828.js
+a02342.thenational.scot/Notice.70828.js
 cmp.finn.no/wrapper/tcfv2/v1/gdpr/native-message
 cmp.tek.no/wrapper/tcfv2/v1/gdpr/native-message
 exr-mms.expertreviews.co.uk/wrapper/tcfv2/v1/gdpr/native-message

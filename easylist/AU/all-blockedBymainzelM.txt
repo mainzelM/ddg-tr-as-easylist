@@ -18,7 +18,6 @@ dc.ads.linkedin.com/collect
 www.linkedin.com/px/li_sync
 client.crisp.chat/l.js
 client.crisp.chat/static/javascripts/client.js
-cdn.ziffstatic.com/sitenotice/evidon-sitenotice-bundle.js
 register.feefo.com//feefo-widget/js/feefo-widget.js
 a.optnmstr.com/app/js/api.min.js
 js.wpnsrv.com/pn.php
@@ -49,7 +48,6 @@ ads.exosrv.com/nativeads.js
 a.exosrv.com/nativeads.js
 a.exosrv.com/popunder1000.js
 ads.exosrv.com/popunder1000.js
-bizible.dnb.com/scripts/bizible.js
 7315551.collect.igodigital.com/collect.js
 7294568.collect.igodigital.com/collect.js
 110005026.collect.igodigital.com/collect.js
@@ -409,12 +407,8 @@ bea4.v.fwmrm.net/ad/u
 29773.v.fwmrm.net/ad/u
 2a7e9.v.fwmrm.net/ad/g/1
 2ecd5.v.fwmrm.net/ad/g/1
-ir.ebaystatic.com/rs/v/s0hteylevy4bpkd12dvkd4yi5ms.js
-ir.ebaystatic.com/cr/v/c1/globalheader_widget_platform__v2-b70676194b.js
-ir.ebaystatic.com/rs/v/fu3xj0y0222sdns2ocqkl0t4dak.js
 ir.ebaystatic.com/rs/v/dxtuvtkk2q3hpkc1xveeo13iaek.js
 ecdn.firstimpression.io/fi_client.js
-b.travel-assets.com/travel-pixel-js/1.0.0/app.js
 cdn.loop11.com/embed.js
 js.adsrvr.org/up_loader.1.1.0.js
 match.adsrvr.org/track/cmf/generic
@@ -448,7 +442,6 @@ html5.adsrvr.org/8xag3ri/35c4z2t/afenvso1/index.html
 usw-ca2.adsrvr.org/bid/feedback/sonobi
 sg2-bid.adsrvr.org/bid/feedback/rubicon
 wcs.naver.net/wcslog.js
-az725175.vo.msecnd.net/scripts/jsll-4.js
 c.adsco.re/
 6.adsco.re/
 adsco.re/p
@@ -1165,7 +1158,6 @@ ads.adthrive.com/builds/core/19a7bd2/js/adthrive.min.js
 ads.adthrive.com/builds/core/19a7bd2/vendor/prebid/prebid.min.js
 ads.adthrive.com/builds/core/dd7cf90/js/adthrive.min.js
 ads.adthrive.com/builds/core/dd7cf90/vendor/prebid/prebid.min.js
-az416426.vo.msecnd.net/scripts/c/ms.analytics-web-2.min.js
 tgtag.io/tg.js
 sync.colossusssp.com/pp.gif
 sync.colossusssp.com/td.gif
@@ -2906,7 +2898,6 @@ s.ad.smaato.net/c/n///-
 prebid.ad.smaato.net/oapi/prebid
 cdn.popt.in/pixel.js
 waust.at/s.js
-platform.linkedin.com/litms/utag/homepage-guest-frontend/utag.js
 api.company-target.com/api/v2/ip.json
 segments.company-target.com/log
 segments.company-target.com/validateCookie
@@ -2997,8 +2988,6 @@ ads.pubmatic.com/AdServer/js/pwt/159296/3740/pwt.js
 ads.pubmatic.com/AdServer/js/pwt/160530/4110/pwt.js
 ads.pubmatic.com/AdServer/js/pwt/157163/6465/pwt.js
 ads.pubmatic.com/AdServer/js/pwt/160032/2984/pwt.js
-lpcdn.customermessaging.bupa.com.au/le_secure_storage/3.15.0.0-release_5063/storage.secure.min.html
-lpcdn.messaging.optus.com.au/le_secure_storage/3.15.0.0-release_5063/storage.secure.min.html
 bttrack.com/pixel/cookiesync
 www.paypalobjects.com/muse/analytics/index.html
 www.paypalobjects.com/api/checkout.js
@@ -5878,7 +5867,6 @@ cdn.segment.com/next-integrations/integrations/intercom/3.0.2/intercom.dynamic.j
 cdn.segment.com/analytics.js/v1/kMettuB218zyYLIzUsT2ptxdGiEtWYT2/analytics.min.js
 cdn.segment.com/v1/projects/kMettuB218zyYLIzUsT2ptxdGiEtWYT2/settings
 kr.ixiaa.com/C726AB29-0470-440B-B8D2-D552CED3A3DC/a.gif
-assets.adobedtm.com/launch-EN919758db9a654a17bac7d184b99c4820.min.js
 asset.fwcdn2.com/js/embed-feed.js
 dpm.demdex.net/id
 disney.demdex.net/id
